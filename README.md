@@ -2,7 +2,8 @@
  
 ## Programming Assignment One
 
-**Requirement Specification**: All the calculations should be done in double precision. Define a variable as double type for floating point computation. Don’t use float. Show the value of a floating point number up to 8 decimal digits.
+**Requirement Specification**: 
+All the calculations should be done in double precision. Define a variable as double type for floating point computation. Don’t use float. Show the value of a floating point number up to 8 decimal digits.
 A.	Basic tasks.
 I.	Write your name in the header file mySystemApp.h
 II.	Press ‘s’ or ‘S’ to show your student information:  date, student ID, name, and email address. showMyStudentInfo_2021_Summer( ) in mySystemApp.cpp
